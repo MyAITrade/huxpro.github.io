@@ -30,7 +30,7 @@ In the those three factors, time is the most certain factor, as one day is reduc
 
 From this figure, you can find that the time value of the option will decease fast as it approaches expire date.
 
-<img src="{{ site.baseurl }}/img/three/three_tsla.jpg" alt="TSLA" class="inline"/>
+<img src="{{ site.baseurl }}/img/three/three_tsla.png" alt="TSLA" class="inline"/>
 
 This figure will give you a estimation of how those three factors influence option price.
 * Delta: stands for the influence from underlying stock movement.
