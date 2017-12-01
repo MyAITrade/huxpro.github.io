@@ -38,6 +38,7 @@ If the implied volatility increases to 21%, your long call is now worth $6.10.
 ### Theta
 
 Theta is expressed as a negative number in terms of dollars. As each day ticks by the option's price will drop by the theta.
+
 For example, you have an Option Prophet (sym: TOP) long call at a price of $5.50 and a theta of -0.35.
 The next day our long call would be worth $5.15 and the day after $4.80.
 Theta will continue to drop the option price until it reaches expiration.

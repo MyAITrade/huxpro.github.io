@@ -10,7 +10,7 @@ tags:
 ---
 
 
-## How to Forecast Option Price ?
+## How to Forecast Option Price?
 
 
 
