@@ -78,6 +78,14 @@ It is the start of a new direction in trend for the stock. Reversal Pivotal Poin
 In this software, we uses green dotted point to stand for high pivotal point, red dotted point to stand for low pivotal point and yellow dotted point to stand for
 reversal pivotal point.
 
+### How to look at the stock behave after crossing the Pivotal Point
+
+For the Livermore stock trend chart, this software provides daily candlestick to help you look at how the stock performs after crossing the Pivotal Point.
+You can use the expand button in the top right to expand the daily candlestick chart and it will show the daily candlestick chart near the pivotal point
+ after you select the pivotal point.
+
+## Trade Rules
+
 Livermore makes it a point to inform us that he never uses the words “bullish” or “bearish” when discussing the market.
 He feels that those words have powerful and long term connotations attached to them that lead to clouded judgement.
 He prefers to us the terms “upward trend” and “downward trend” because he feels that it is easier to reverse a position
