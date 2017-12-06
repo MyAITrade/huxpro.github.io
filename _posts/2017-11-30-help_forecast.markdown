@@ -12,7 +12,7 @@ tags:
 
 ## How to Forecast Option Price?
 
-### Forecast implied volatility
+### Forecast Implied Volatility
 
 When forecasting implied volatility, there are four things to consider:
 
