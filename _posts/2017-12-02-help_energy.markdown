@@ -20,7 +20,7 @@ There is strength behind to make the stock price movement.
 We use rise energy to stand for the strength that makes the stock price up and
 fall energy to stand for the strength that makes the stock price down.
 
-From time period perspective, we separate it into three: short term, mid term and long term. The difference is that they use different period to calculate the energy.
+From time period perspective, we separate it into three: short term, mid term and long term. The difference is that they use different time period to calculate the energy.
 Short term uses 5 days as time period, mid term uses 10 days as time period and long term uses 20 days as time period.
 
 You can choose different time period according to how long or how often you trade the stock.

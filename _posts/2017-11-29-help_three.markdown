@@ -38,7 +38,7 @@ This figure will give you a estimation of how those three factors influence opti
 * Theta Impact: shows you how the time decease one day influence the option price change percentage
 
 Theory option price change percentage is the value calculated using the BS model and market change is the real option price change percentage by the market.
-There are some gap between those two values. 
+There are some gap between those two values.
 
 From this figure you can find that the price of underlying stock TSLA increases 0.43%,
 but the price of this call option with strike 305 and expire at 12-08-2017 decrease 7.22%.
