@@ -17,14 +17,22 @@ In the dashboard page, we will show energy, options and high/low prices chart fo
 ### Energy
 
 There is strength behind to make the stock price movement.
-We use rise energy to stand for the strength that makes the stock price up and
-fall energy to stand for the strength that makes the stock price down.
 
-From time period perspective, we separate it into three: short term, mid term and long term. The difference is that they use different time period to calculate the energy.
-Short term uses 5 days as time period, mid term uses 10 days as time period and long term uses 20 days as time period.
+EC measures the strength of market by comparing the average increase over the average decrease over a period of time to make a forecast of future market trends.
+Its value range is [-50,50]. If the value is greater than 0, it indicates a strong market during this time.
+If the value is less than 0, it indicates a week market during this time.
 
-You can choose different time period according to how long or how often you trade the stock.
-If you just hold the stock for a short time period, you can use short term chart to decide whether to long it or short it.
+EC5: Relative Strength Index within 5 days, its change is faster, more sensitive, can be used to make a rebound.
+If more than 40 or less than -40, we must be careful that the market is about to rebound.
+
+EC20: Relative Strength Index within 20 days, its change is relatively slow, and can be used as a basis for short or long.
+If greater than 0, it indicates a strong market that you can long the stock.
+If less than 0, it indicates a strong market that you can short the stock.
+It also has a rebound feature, if more than 20 or less than -20, then we must be careful that the market is about to rebound.
+
+ATR: The relative volatility, used to measure the relative size of the stock volatility.
+A value above 0 indicates that it has relatively large volatility, a value less than 0 indicates that it has relatively small volatility.
+When ATR <-20, it indicates that the market is going to enter a period of large volatility.
 
 #### How to Use Energy Chart
 
